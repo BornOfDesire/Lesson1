@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 rootProject.name = "ru.mirea.RankoAS.lesson1"
 include ':app'
 include ':typelayout'
+include ':buttonclicker'
+include ':control_lesson'

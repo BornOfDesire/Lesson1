@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.rumirearankoaslesson1'
+    namespace 'com.example.control_lesson'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.rumirearankoaslesson1"
+        applicationId "com.example.control_lesson"
         minSdk 24
         targetSdk 33
         versionCode 1
